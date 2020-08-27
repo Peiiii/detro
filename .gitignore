@@ -1,0 +1,7 @@
+.idea/**/*
+.code/**/*
+.vscode/**/*
+scripts/**/*
+dist/**/*
+build/**/*
+detro.egg-info/**/*

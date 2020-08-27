@@ -1,0 +1,1 @@
+from detro.predictors import CircleDetector
